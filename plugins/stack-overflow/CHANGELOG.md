@@ -1,5 +1,18 @@
 # @backstage/plugin-stack-overflow
 
+## 0.1.7-next.2
+
+### Patch Changes
+
+- e32d5643e3: `StackOverflowSearchResultListItem` now accept optional rank property to be able to capture rank analytics data.
+- Updated dependencies
+  - @backstage/config@1.0.4-next.0
+  - @backstage/core-components@0.12.0-next.1
+  - @backstage/core-plugin-api@1.1.0-next.0
+  - @backstage/theme@0.2.16
+  - @backstage/plugin-home@0.4.27-next.2
+  - @backstage/plugin-search-common@1.1.1-next.0
+
 ## 0.1.7-next.1
 
 ### Patch Changes

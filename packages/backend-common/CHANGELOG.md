@@ -1,5 +1,18 @@
 # @backstage/backend-common
 
+## 0.16.0-next.2
+
+### Patch Changes
+
+- e6ced2446a: Change to using `@keyv/memcache` now that `keyv-memcache` is deprecated
+- Updated dependencies
+  - @backstage/cli-common@0.1.10
+  - @backstage/config@1.0.4-next.0
+  - @backstage/config-loader@1.1.6-next.0
+  - @backstage/errors@1.1.3-next.0
+  - @backstage/integration@1.4.0-next.0
+  - @backstage/types@1.0.1-next.0
+
 ## 0.16.0-next.1
 
 ### Patch Changes
